@@ -1,0 +1,12 @@
+# build output (the .exe is big - share it through GitHub "Releases" instead)
+build/
+dist/
+*.spec
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# local files the app creates
+error_log.txt
